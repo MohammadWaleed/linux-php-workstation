@@ -4,6 +4,7 @@ This script is made to prepare my workstation for PHP development
 
 # Usage
  run this in your shell
+ 
  `wget -O - https://raw.githubusercontent.com/MohammadWaleed/linux-php-workstation/master/linux_php_env.sh | bash`
 # Tools Installed
 
